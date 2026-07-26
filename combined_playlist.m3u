@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-26T19:14:30.871579 UTC
+# Generated on 2026-07-26T21:01:53.787907 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -9041,36 +9041,36 @@ http://example.com/stream
 #EXTGRP:x Roxiestreams
 
 #GROUP:ENG | Live Events
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Los Angeles Angels vs San Francisco Giants
-https://temp.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",San Diego Padres vs Miami Marlins
-https://temp.formaturamaxi.com.br/mlb8.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Chicago Cubs vs Pittsburgh Pirates
 https://temp.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Athletics vs Minnesota Twins
-https://temp.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Seattle Mariners vs Texas Rangers
-https://temp.formaturamaxi.com.br/mlb13.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Kansas City Royals vs Detroit Tigers
 https://temp.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Colorado Rockies vs Milwaukee Brewers
-https://temp.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",New York Yankees vs Philadelphia Phillies
-https://temp.formaturamaxi.com.br/mlb15.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Cincinnati Reds vs St. Louis Cardinals
-https://temp.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Atlanta Braves vs Baltimore Orioles
 https://temp.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",New York Yankees vs Philadelphia Phillies
+https://temp.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Colorado Rockies vs Milwaukee Brewers
+https://temp.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Athletics vs Minnesota Twins
+https://temp.formaturamaxi.com.br/mlb9.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Houston Astros vs Chicago White Sox
 https://temp.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Los Angeles Dodgers vs New York Mets
 https://temp.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",MXGP - Coverage
-https://tedesco.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",San Diego Padres vs Miami Marlins
+https://temp.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Los Angeles Angels vs San Francisco Giants
+https://temp.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Seattle Mariners vs Texas Rangers
+https://temp.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Cincinnati Reds vs St. Louis Cardinals
+https://temp.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",High Limit Racing
 https://temp.formaturamaxi.com.br/flo2.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",USAC Sprint Cars
 https://temp.formaturamaxi.com.br/flo.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",MXGP - Coverage
+https://tedesco.formaturamaxi.com.br/mxgp.m3u8
 
 
 ==================================================
