@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-17T08:30:16.111119 UTC
+# Generated on 2026-08-17T10:20:39.103381 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -9039,6 +9039,12 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/411239fa-0e76-4a94-a829-a
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/bcb713eb-99bc-45fb-a729-e93c38617b92.m3u
 #EXTINF:-1 tvg-id="tvg-id-channel916" tvg-name="24/7: Transformers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/9d3f463a7b984828c63990c9bb8747ae.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Transformers Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/91054f69-23c7-4571-bee8-fe3c0bd582cc.m3u
+
+
+==================================================
+
+#PLAYLIST:x power
+#EXTGRP:x power
 
 
 ==================================================
